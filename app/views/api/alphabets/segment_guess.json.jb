@@ -1,0 +1,7 @@
+{
+  
+guess: @number,
+message: @message 
+
+
+}
